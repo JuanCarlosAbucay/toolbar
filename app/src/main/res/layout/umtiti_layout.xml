@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="Samuel Umtiti"/>
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:id="@+id/umtitiImage"
+        android:src="@drawable/umtiti_puyol"/>
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/descripcionHarry"
+        android:text="Samuel Yves Umtiti (Yaundé, Camerún, 14 de noviembre de 1993), más conocido como Samuel Umtiti, es un futbolista francés que juega como defensa en la U. S. Lecce de la Serie A de Italia, cedido por el F. C. Barcelona de la Primera División de España. También es internacional con la selección de Francia con la que se consagró campeón de la Copa Mundial de Rusia de 2018"/>
+</LinearLayout>

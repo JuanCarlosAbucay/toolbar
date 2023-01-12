@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="Jesús Vallejo"/>
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:id="@+id/vallejoImage"
+        android:src="@drawable/vallejo_god"/>
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/descripcionHarry"
+        android:text="Jesús Vallejo Lázaro (Zaragoza, 5 de enero de 1997) es un futbolista español que juega como defensa central en el Real Madrid C. F.
+
+Considerado en sus inicios como uno de los juveniles españoles de mayor proyección,1​ fue seleccionado por Fútbol Draft como uno de los mejores 22 futbolistas canteranos de España en 2015,2​ y como uno de los mejores once en 2016 y 2017.3​4​ Es internacional en las categorías inferiores de la selección española, siendo actualmente parte del combinado sub-21. Entre su palmarés destacan dos campeonatos de Europa logrados en Grecia 2015 (Sub-19) y en Italia 2019 (Sub-21)"/>
+</LinearLayout>
